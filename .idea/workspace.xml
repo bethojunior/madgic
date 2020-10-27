@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3f92bad-1c0f-4720-814d-e53a06198515" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/noscript.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/breakpoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/breakpoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/browser.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/browser.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_actions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_actions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_box.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_features.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_features.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_row.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_row.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_spotlight.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_statistics.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/noscript.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/noscript.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/betho/assets/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/betho/assets/images/background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/betho/assets/images/lawer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/betho/assets/images/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/betho/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo/logoall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/.idea/laplaza.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/css/fontawesome-all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/js/breakpoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/js/browser.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/js/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/base/_page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/base/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/base/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_actions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_box.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_features.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_icon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_mini-posts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_posts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_section.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/components/_table.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/layout/_banner.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/layout/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/layout/_main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/layout/_menu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/layout/_sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/layout/_wrapper.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/libs/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/libs/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/libs/_html-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/libs/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/libs/_vars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/libs/_vendor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/sass/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/bembonita.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/generic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/bembonita.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/ishop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/pic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/pic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/pic03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/pic04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/pic05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/pic06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/pic07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/pic08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/pic09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/pic10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/images/pic11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laplaza/ishop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/css/fontawesome-all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/js/breakpoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/js/browser.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/js/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/base/_page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/base/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/base/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_actions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_box.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_features.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_icon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_mini-posts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_posts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_section.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/components/_table.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/layout/_banner.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/layout/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/layout/_main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/layout/_menu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/layout/_sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/layout/_wrapper.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/libs/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/libs/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/libs/_html-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/libs/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/libs/_vars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/libs/_vendor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/sass/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/generic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/images/photo1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/images/pic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/images/pic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/images/pic03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/images/pic04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/images/pic05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/images/pic06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/images/pic07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/images/pic08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/images/pic09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/images/pic10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/images/pic11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roberto/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SDVUQRds4GelD8YftIUbqpcVwc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3f92bad-1c0f-4720-814d-e53a06198515" name="Default Changelist" comment="" />
+      <created>1571098168121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571098168121</updated>
+      <workItem from="1571098170154" duration="2932000" />
+      <workItem from="1571140359273" duration="76000" />
+      <workItem from="1571182075310" duration="3062000" />
+      <workItem from="1571316756161" duration="612000" />
+      <workItem from="1571342353581" duration="1058000" />
+      <workItem from="1571343727348" duration="505000" />
+      <workItem from="1571361467935" duration="68000" />
+      <workItem from="1571361966525" duration="663000" />
+      <workItem from="1571401527659" duration="220000" />
+      <workItem from="1571504564628" duration="7174000" />
+      <workItem from="1571594838488" duration="52000" />
+      <workItem from="1596503076698" duration="794000" />
+      <workItem from="1597096967298" duration="39000" />
+      <workItem from="1597512395591" duration="15000" />
+      <workItem from="1603828854160" duration="7185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1597512408731">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1597512408731" />
+  </component>
+</project>
