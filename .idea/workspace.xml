@@ -20,12 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3f92bad-1c0f-4720-814d-e53a06198515" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/js/mail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/noscript.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images/overlay.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/breakpoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/breakpoints.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/browser.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/browser.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/sass/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_reset.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterDir="false" />
@@ -67,6 +71,7 @@
       <change beforePath="$PROJECT_DIR$/images/pic04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic04.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/pic05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic05.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/pic06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laplaza/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/laplaza/.idea/laplaza.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/laplaza/.idea/misc.xml" beforeDir="false" />
@@ -231,6 +236,13 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -286,7 +298,7 @@
       <workItem from="1596503076698" duration="794000" />
       <workItem from="1597096967298" duration="39000" />
       <workItem from="1597512395591" duration="15000" />
-      <workItem from="1603828854160" duration="7680000" />
+      <workItem from="1603828854160" duration="7969000" />
     </task>
     <servers />
   </component>
@@ -310,5 +322,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1597512408731" />
+    <state x="517" y="307" key="NewPhpFileDialog" timestamp="1603836627074">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="517" y="307" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1603836627074" />
   </component>
 </project>
